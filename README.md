@@ -22,4 +22,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 documentation](https://nextjs.org/docs/deployment) for more details.
 
-##This project will also use Prisma and MYSQL as a mode of storage as well as socket.io for live chat!
+## This project will also use Prisma and MYSQL as a mode of storage as well as socket.io for live chat!
